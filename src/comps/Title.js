@@ -4,8 +4,8 @@ const Title = () => {
   return (
     <div className="title">
       <h1>FireGram</h1>
-      <h2>Your Pictures</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h2>My UI/UX work</h2>
+      <p>Hey there, welcome to my UI/UX portfolio.</p>
     </div>
   )
 }
